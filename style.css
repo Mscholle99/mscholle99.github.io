@@ -1,10 +1,13 @@
+*{
+   font-family: Helvetica;
+}
 p{
    
 }
 .topnav{
    height: 5%;
    width: 100%;
-   position: sticky;
+   position: fixed;
    z-index: 2;
    top: 0;
    left: 0;
@@ -35,10 +38,12 @@ p{
 
 .title{
     font-size: 22px;
+   padding: 20px;
     
 }
 img{
    width: 200px;
    height: 200px;
    border: 1px solid light green;
+   padding: 40px;
 }
