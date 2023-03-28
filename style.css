@@ -8,7 +8,7 @@ p{
 
 head{
 position: fixed;
-   background-color: lightblue;
+   border-bottom: 1px black;
    text-color: navy;
    font-size: 24px;
    padding: 10px;
@@ -23,7 +23,7 @@ position: fixed;
    left: 0;
    font-size: 18px;
    background-color: cornflowerblue;
-   padding-top:10px; 
+   padding-top:80px; 
     
 }
 .leftnav {
@@ -46,7 +46,8 @@ position: fixed;
 .title{
     font-size: 22px;
    padding: 20px;
-   top: 0
+   top: 0;
+      z-index: 3;
       
     
 }
