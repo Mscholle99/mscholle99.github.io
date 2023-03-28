@@ -2,7 +2,8 @@
    font-family: Helvetica;
 }
 p{
-   
+ display: block;
+   padding: 10px;
 }
 
 head{
