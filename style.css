@@ -5,8 +5,8 @@ p{
  display: block;
    padding: 10px;
    margin: 10px;
-   left: 30%
-      position: relative;
+   left: 30%;
+   position: relative;
 }
 
 
@@ -17,7 +17,7 @@ p{
    position: relative;
    z-index: 1;
    top: 100;
-   left: 200;
+   left: 15%;
    font-size: 16px;
    background-color: mistyrose;
    padding-top:80px; 
@@ -40,6 +40,17 @@ p{
     font-size: 18px;
     display: block;
   }
+
+.bottomnav{
+   width: 100%;
+   bottom: 0;
+      Left: 15%;
+   position: relative;
+   z-index: 1;
+   font-size: 16px;
+   background-color: mistyrose;
+   padding-top:80px; 
+}
 
 .title{
    top: 0;
