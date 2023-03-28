@@ -17,26 +17,24 @@ p{
    top: 100;
    left: 200;
    font-size: 16px;
-   background-color: lightyellow;
+   background-color: yellow;
    padding-top:80px; 
     
 }
 .leftnav {
     height: 100%;
-    width: 200px;
-    position: fixed; 
+    width: 20%;
+    position: absolute; 
     z-index: 2; 
    top: 0;
    left: 0;
-    font-size:16px;
-    background-color: darkyellow; 
-    padding-top: 7%;
-   padding-right: 40px;
+    font-size:20px;
+    background-color: yellow; 
+    padding: 40px;
   }
 
   .leftnav a {
     padding: 6px 8px 6px 16px;
-    text-decoration: none;
     font-size: 18px;
     display: block;
   }
@@ -44,6 +42,7 @@ p{
 .title{
    top: 0;
    left: 200;
+   text-align: center;
    font-size: 22px;
    padding: 20px;
    top: 0;
@@ -54,6 +53,6 @@ p{
 img{
    width: 200px;
    height: 200px;
-   border: 1px solid lightpurple;
+   border: 1px solid black;
   
 }
