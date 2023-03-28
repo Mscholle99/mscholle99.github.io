@@ -6,16 +6,10 @@ p{
    padding: 10px;
 }
 
-head{
-position: fixed;
-   border-bottom: 1px black;
-   text-color: navy;
-   font-size: 24px;
-   padding: 10px;
 
 }
 .topnav{
-   height: 5%;
+
    width: 100%;
    position: fixed;
    z-index: 2;
@@ -34,6 +28,7 @@ position: fixed;
     font-size:16px;
     background-color: lightpurple; 
     padding-top: 7%;
+   padding-right: 40px;
   }
 
   .leftnav a {
