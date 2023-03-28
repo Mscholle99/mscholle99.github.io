@@ -4,6 +4,15 @@
 p{
    
 }
+
+head{
+position: fixed;
+   background-color: lightblue;
+   text-color: navy;
+   font-size: 24px;
+   padding: 10px;
+
+}
 .topnav{
    height: 5%;
    width: 100%;
@@ -12,7 +21,7 @@ p{
    top: 0;
    left: 0;
    font-size: 18px;
-   background-color: lavendar;
+   background-color: cornflowerblue;
    padding-top:10px; 
     
 }
@@ -44,6 +53,6 @@ p{
 img{
    width: 200px;
    height: 200px;
-   border: 1px solid light green;
+   border: 1px solid lightgreen;
    padding: 40px;
 }
