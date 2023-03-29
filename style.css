@@ -48,7 +48,7 @@ p{
    width: 100%;
    bottom: 0;
       Left: 15%;
-   position: fixed;
+   position: absolute;
    z-index: 1;
    font-size: 16px;
    background-color: mistyrose;
