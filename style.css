@@ -5,7 +5,7 @@ p{
  display: block;
    padding: 10px;
    margin: 10px;
-   left: 1000px;
+   Right: 10%;
    position: relative;
 }
 
@@ -21,6 +21,8 @@ p{
    font-size: 16px;
    background-color: mistyrose;
    padding-top:80px; 
+   text-align: center;
+   border: 1px black;
     
 }
 .leftnav {
@@ -45,11 +47,12 @@ p{
    width: 100%;
    bottom: 0;
       Left: 15%;
-   position: relative;
+   position: fixed;
    z-index: 1;
    font-size: 16px;
    background-color: mistyrose;
    padding-top:80px; 
+   text-align: center;
 }
 
 .title{
@@ -60,6 +63,7 @@ p{
    padding-bottom: 20px;
    top: 0;
    z-index: 0;
+   position: fixed;
    background-color: Pink;
     
 }
