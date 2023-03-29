@@ -9,10 +9,12 @@ body{
 	Border 1px solid black;
 }
 #menu {
-    background-color:darkolivegreen; 
+    background-color:black; 
+	text-color: white;
     height:100%; 
 	width:20%; 
     float: left
+	    position: absolute;
 }
 #content {
     background-color:white; 
