@@ -7,7 +7,7 @@ p{
    margin: 10px;
    position: relative;
    Top: 300;
-   Left: 400;
+   Left: 1000;
 }
 
 
@@ -15,8 +15,8 @@ p{
 .topnav{
    
  width: 100%;
-Top 200;
-      Left: 15%;
+   Top 200;
+   Left: 15%;
    position: fixed;
    z-index: 1;
    font-size: 16px;
@@ -76,7 +76,7 @@ img{
    border: 1px solid black;
    float: right;
    Top: 300;
-   left: 700;
+   left: 1200;
   position: relative;
 }
 
