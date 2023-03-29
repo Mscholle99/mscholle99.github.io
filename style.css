@@ -5,7 +5,9 @@ p{
  display: inline;
    padding: 10px;
    margin: 10px;
-   position: static;
+   position: relative;
+   Top: 300;
+   Left: 400;
 }
 
 
@@ -74,7 +76,9 @@ img{
    height: 200px;
    border: 1px solid black;
    float: right;
-  position: static;
+   Top: 300;
+   left: 700;
+  position: relative;
 }
 
 #research, #intro{
