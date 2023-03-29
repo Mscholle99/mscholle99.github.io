@@ -5,7 +5,7 @@ p{
  display: inline;
    padding: 10px;
    margin: 10px;
-   position: relative;
+   position: static;
 }
 
 
@@ -72,14 +72,15 @@ img{
    height: 200px;
    border: 1px solid black;
    float: right;
-  position: relative;
+  position: static;
 }
 
 #research, #intro{
    display: inline;
    padding: 10px;
    margin: 10px;
-   position: relative;
+   float: left;
+   position: static;
    
 }
 
