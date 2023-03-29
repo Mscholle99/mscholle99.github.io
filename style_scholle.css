@@ -5,19 +5,26 @@ body{
 
 #header { 
     width:100%; 
-    height:100px;
-	padding: 5px;
+    height:60px;
+	padding: 7px;
 	Border: 1px solid black;
 	text-align: center;
+	text-size: 22px;
 }
 #menu {
-    background-color:black; 
-	text-color: white;
+    background-color:lightsteelblue; 
+	border: 1px solid black;
     height:100%; 
 	width:20%; 
-    float: left
+    float: left;
 	    position: absolute;
 }
+
+#menu.a{
+	padding:8px; 
+		text-size: 18px;
+}
+
 #content {
     background-color:white; 
     height:500px; 
