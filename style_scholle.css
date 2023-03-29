@@ -17,7 +17,7 @@ body{
     	height:80%; 
 	width:20%; 
     	float: left;
-	position: sticky;
+	position: absolute;
 	Z-index:1
 }
 
@@ -29,13 +29,13 @@ body{
 #content {
     	background-color:white; 
     	height:500px; 
-    	width:75%; 
+    	width:65%; 
     	float:right;
 	padding:5px
 }
 img{
-	height: 200px;
-	width: 200px;
+	height: 250px;
+	width: 250px;
 	float: right;
 	Padding: 10px;
 	Border: 1px black;
