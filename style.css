@@ -5,6 +5,7 @@ p{
  display: inline;
    padding: 10px;
    margin: 10px;
+   Top: 200px;
    Left: 300px;
    position: relative;
 }
