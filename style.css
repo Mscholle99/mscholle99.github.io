@@ -58,6 +58,7 @@ p{
 
 .title{
    width: 100%;
+   position: sticky;
    top: 0;
    left: 200;
    text-align: center;
