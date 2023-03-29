@@ -2,7 +2,7 @@
    font-family: Helvetica;
 }
 p{
- display: block;
+ display: inline-block;
    padding: 10px;
    margin: 10px;
    Left: 300px;
@@ -76,8 +76,8 @@ img{
   position: relative;
 }
 
-ul{
-   display: block;
+#research, #intro{
+   display: inline-block;
    padding: 10px;
    margin: 10px;
    Left: 300px;
