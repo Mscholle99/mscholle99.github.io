@@ -16,7 +16,7 @@ p{
   width: 100%;
    top: 0;
    Left: 15%;
-   position: fixed;
+   position: relative;
    z-index: 1;
    font-size: 16px;
    background-color: mistyrose;
@@ -48,7 +48,7 @@ p{
    width: 100%;
    bottom: 0;
       Left: 15%;
-   position: absolute;
+   position: fixed;
    z-index: 1;
    font-size: 16px;
    background-color: mistyrose;
