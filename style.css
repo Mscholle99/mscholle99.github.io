@@ -16,7 +16,7 @@ p{
    
   width: 100%;
    top: 80;
-Left: 200;
+   Left: 200;
    position: relative;
    z-index: 1;
    font-size: 16px;
@@ -64,10 +64,9 @@ Left: 200;
    top: 0;
    text-align: center;
    font-size: 22px;
-   padding: 30px;
+   padding: 20px;
    top: 0;
-   z-index: 4;
-   position: fixed;
+   z-index: 1;
    background-color: Pink;
     
 }
