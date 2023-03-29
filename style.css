@@ -16,7 +16,7 @@ p{
    top: 80;
 Left: 200;
    position: sticky;
-   z-index: 3;
+   z-index: 1;
    font-size: 16px;
    background-color: mistyrose;
    padding: 30px; 
@@ -59,7 +59,6 @@ Left: 200;
    width: 100%;
    position: sticky;
    top: 0;
-   left: 200;
    text-align: center;
    font-size: 22px;
    top: 0;
