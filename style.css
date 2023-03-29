@@ -14,8 +14,7 @@ p{
 
 }
 .topnav{
-   
- width: 100%;
+    width: 100%;
    Top 200;
    Left: 200;
    position: sticky;
@@ -23,10 +22,9 @@ p{
    font-size: 16px;
    background-color: lightgoldenrodyellow;
    padding: 30px; 
-   text-align: center;
-
-    
+   text-align: center;   
 }
+
 .leftnav {
     height: 100%;
     width: 10%;
