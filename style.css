@@ -1,13 +1,14 @@
 *{
    font-family: Helvetica;
 }
+
 p{
  display: inline;
    padding: 10px;
    margin: 10px;
-   position: relative;
-   Top: 300;
-   Left: 1000;
+   position: absolute;
+   Top: 700;
+   Left: 700;
 }
 
 
@@ -17,7 +18,7 @@ p{
  width: 100%;
    Top 200;
    Left: 15%;
-   position: fixed;
+   position: absolute;
    z-index: 1;
    font-size: 16px;
    background-color: lightgoldenrodyellow;
@@ -76,16 +77,18 @@ img{
    border: 1px solid black;
    float: right;
    Top: 300;
-   left: 1200;
-  position: relative;
+   left: 700;
+  position: absolute;
 }
 
 #research, #intro{
    display: inline;
+   Top: 400;
+   Left: 300;
    padding: 10px;
    margin: 10px;
    float: left;
-   position: static;
+   position: absolute;
    
 }
 
