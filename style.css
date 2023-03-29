@@ -57,6 +57,7 @@ p{
 }
 
 .title{
+   width: 100%
    top: 0;
    left: 200;
    text-align: center;
