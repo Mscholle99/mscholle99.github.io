@@ -6,7 +6,7 @@ p{
  display: inline;
    padding: 10px;
    margin: 10px;
-   position: absolute;
+   position: relative;
    Top: 700;
    Left: 700;
 }
@@ -17,8 +17,8 @@ p{
    
  width: 100%;
    Top 200;
-   Left: 15%;
-   position: absolute;
+   Left: 200;
+   position: sticky;
    z-index: 1;
    font-size: 16px;
    background-color: lightgoldenrodyellow;
@@ -78,7 +78,7 @@ img{
    float: right;
    Top: 300;
    left: 700;
-  position: absolute;
+  position: relative;
 }
 
 #research, #intro{
@@ -88,7 +88,7 @@ img{
    padding: 10px;
    margin: 10px;
    float: left;
-   position: absolute;
+   position: relative;
    
 }
 
